@@ -1,0 +1,24 @@
+Projecto: 
+
+Gestão de uma sala de espectáculos:
+
+Menu:
+Reservar
+eliminar/ alterar 
+Consultar bilheteira -> 
+
+Interface Gráfica S/N -> FAcultativo
+
+Funcionalidades:
+Reservar lugar -> tendo em conta a organização da sala
+Eliminar Reserva 
+
+Respeitar a planta da sala tendo em conta o gráfico 
+-> Contabilizar apenas os lugares. 
+-> Convém apresentar a sala ao utilizador. 
+
+Podemos colocar funcionalidades que façam sentido (Ver sites de reservas de bilhetes)
+
+Manual de utilizador com agenda. 
+
+Entrega: 20/06/2022
